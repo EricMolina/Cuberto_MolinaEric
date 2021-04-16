@@ -147,6 +147,10 @@ body {
     font-size: 1vw;
 }
 
+.BorderRadius {
+    border-radius: 8vw;
+}
+
 
 /* MEDIA QUERY */
 
