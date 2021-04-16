@@ -221,4 +221,7 @@ body {
     #Column1_S4 {
         height: 20%;
     }
+    .BorderRadius {
+        border-radius: 12vw;
+    }
 }
